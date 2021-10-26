@@ -1,3 +1,3 @@
 # Campus-Placement
 ## Platform: Python, Flask
-<img src="cp.jpeg">
+<img src="cp.jpg">
